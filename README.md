@@ -21,10 +21,7 @@
 
 
 
-<div>
-  <p align="center">
   <a href="https://app.daily.dev/allefts"><img src="https://github.com/allefts/allefts/blob/main/devcard.svg" width="400" alt="Allef Soares's Dev Card"/></a>
-</p>
 
 
 <!---
