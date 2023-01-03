@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Minedle**
 
-- 🌱 I’m currently learning **Go, Sequence Alignment w/MatLab**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 💬 Ask me about **React, Linux**
 
