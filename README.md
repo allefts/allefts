@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Minedle**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Rust & WASM, Typescript**
 
 - 💬 Ask me about **React, Linux**
 
