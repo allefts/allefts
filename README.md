@@ -1,7 +1,7 @@
 <h1>Hi, I'm Allef Soares</h1>
 <h3>Software Developer graduating December 2022. Focused on Front-End development but also skillful in Back-End development. Along with creating software, I enjoy working on my Linux setups.</h3>
 
-- 🔭 I’m currently working on **Minedle**
+- 🔭 I’m currently working on **Rustlings**
 
 - 🌱 I’m currently learning **Rust & WASM, Typescript**
 
