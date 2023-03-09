@@ -1,4 +1,4 @@
-<h1>Hi, I'm Allef Soares</h1>
+<h1>Hi, I'm Allef</h1>
 <h3>Computer Science Graduate. Focused on Front-End development but also skillful in Back-End development. Along with creating software, I enjoy working on my Linux setups.</h3>
 
 - 🔭 I’m currently working on **Xessions**
