@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js, Prisma**
 
-- 💬 Ask me about **React, Linux**
-
 - 📫 How to reach me **alleftsoares@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
