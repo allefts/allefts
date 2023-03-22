@@ -17,11 +17,6 @@
 
 
 
-
-
-  <a href="https://app.daily.dev/allefts"><img src="https://github.com/allefts/allefts/blob/main/devcard.svg" width="400" alt="Allef Soares's Dev Card"/></a>
-
-
 <!---
 allefts/allefts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
