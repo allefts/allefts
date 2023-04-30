@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Xessions**
 
-- 🌱 I’m currently learning **Typescript, Next.js, Prisma**
+- 🌱 I’m currently learning **Elm, WASM**
 
 - 📫 How to reach me **alleftsoares@gmail.com**
 
