@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Xessions & New 2023 Portfolio**
 
-- 🌱 I’m currently learning **Web Components, Gleam**
+- 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me **alleftsoares@gmail.com**
 
