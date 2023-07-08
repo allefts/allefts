@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **New 2023 Portfolio**
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **alleftsoares@gmail.com**
 
