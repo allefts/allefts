@@ -30,8 +30,7 @@
 
 - ⚠️ 100+ Leetcode Problems (Can Interview)
 
-- 🚙 Did TB and WP on a 1998 CRV (Can be patient)
+- 🚙 Did timing belt, water pump on a 1998 CRV (Can be patient)
 
-- *This list will grow as I do*
 
-> All this with no coffee (Coffee drinkers punching the air right now)
+*All this with no coffee (Coffee drinkers punching the air right now)*
