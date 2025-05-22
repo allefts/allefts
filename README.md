@@ -18,17 +18,15 @@
 
 - 🚛 Pronounced NGINX correctly
   
-- ⛓️ SSH into VPS (Can Type)
+- ⛓️ SSH into VPS
 
 - 🌐 Used Terraform once (Basically DevOps)
   
-- 📖 Read the React Documentation (Can Read)
+- 📖 Read the React Documentation
 
 - 💻 Wrote the 404 fallback endpoint (Basically Fullstack 2.0)
   
-- 🍚 Checked `if err != nil` (IFYKYK)
-
-- ⚠️ Solved 100 Leetcode Problems (Can Interview)
+- 🍚 Checked `if err != nil`
 
 - 🚙 Did timing belt, water pump on a 1998 CRV (Can be patient)
 
