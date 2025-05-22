@@ -9,7 +9,7 @@
 > Not enough efficiency 
 
 
-## *Major* Achievements
+## Major Achievements
 - 💻 Upgraded API to V2 (Basically Fullstack)
   
 - 🤓 Installed NixOS and setup home-manager (Never again)
