@@ -1,6 +1,6 @@
-# 🌑 Welcome
+# 🦸 Welcome
 
-> 🦸 Super dev creating everything that I can think of.
+> Super dev creating everything that I can think of.
 
 > Too many side projects and too many ideas.
 
