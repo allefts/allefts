@@ -2,7 +2,11 @@
 
 > Super dev creating everything that I can think of.
 
-> Too many side projects and too many ideas.
+> Too many side projects
+
+> Too many ideas
+
+> Not enough efficiency 
 
 
 ## Super Achievements
@@ -21,3 +25,6 @@
 - 🍚 Set a background image in I3
 
 - ⚠️ 100+ Leetcode Problems (Can Interview)
+
+
+*All this with no coffee (Coffee drinkers punching the air right now)*
