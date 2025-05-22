@@ -15,6 +15,8 @@
 - 🤓 Installed NixOS and setup home-manager (Never again)
   
 - ⌨️ Own Neovim config (No Copy Pasta)
+
+- 🚛 Pronounced NGINX correctly
   
 - ⛓️ SSH into VPS (Can Type)
 
