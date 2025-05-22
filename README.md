@@ -9,7 +9,7 @@
 > Not enough efficiency 
 
 
-## Super Achievements
+## *Major* Achievements
 - 💻 Upgraded API to V2 (Basically Fullstack)
   
 - 🤓 Installed NixOS and setup home-manager (Never again)
@@ -21,6 +21,8 @@
 - 🌐 Used Terraform once (Basically DevOps)
   
 - 📖 Read the React Documentation (Can Read)
+
+- 💻 Wrote the 404 fallback endpoint (Basically Fullstack 2.0)
   
 - 🍚 Set a background image in I3
 
