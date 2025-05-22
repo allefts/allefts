@@ -28,7 +28,7 @@
   
 - 🍚 Checked `if err != nil` (IFYKYK)
 
-- ⚠️ 100+ Leetcode Problems (Can Interview)
+- ⚠️ Solved 100 Leetcode Problems (Can Interview)
 
 - 🚙 Did timing belt, water pump on a 1998 CRV (Can be patient)
 
