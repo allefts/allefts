@@ -1,6 +1,7 @@
 # 🌑 Welcome
 
 > 🦸 Super dev creating everything that I can think of.
+
 > Too many side projects and too many ideas.
 
 
@@ -18,3 +19,5 @@
 - 📖 Read the React Documentation (Can Read)
   
 - 🍚 Set a background image in I3
+
+- ⚠️ 100+ Leetcode Problems (Can Interview)
