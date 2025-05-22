@@ -26,11 +26,12 @@
 
 - 💻 Wrote the 404 fallback endpoint (Basically Fullstack 2.0)
   
-- 🍚 Set a background image in I3
+- 🍚 Checked `if err != nil` (IFYKYK)
 
 - ⚠️ 100+ Leetcode Problems (Can Interview)
 
 - 🚙 Did timing belt, water pump on a 1998 CRV (Can be patient)
 
 
-*All this with no coffee (Coffee drinkers punching the air right now)*
+
+*All this with no coffee (☕ Coffee drinkers punching the air right now)*
