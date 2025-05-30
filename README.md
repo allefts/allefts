@@ -28,7 +28,7 @@
   
 - 🍚 Checked `if err != nil`
 
-- 🚙 Did timing belt, water pump on a 1998 CRV (Can be patient)
+- 🚙 Did timing belt, water pump on a 1998 CRV
 
 
 
