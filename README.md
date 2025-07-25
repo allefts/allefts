@@ -10,7 +10,7 @@
 
 
 ## Major Achievements
-- 💻 Upgraded API to V2 (Basically Fullstack)
+- 💻 Upgraded API to V2
   
 - 🤓 Installed NixOS and setup home-manager (Never again)
   
@@ -20,16 +20,12 @@
   
 - ⛓️ SSH into VPS
 
-- 🌐 Used Terraform once (Basically DevOps)
+- 🌐 Used Terraform once
   
 - 📖 Read the React Documentation
 
-- 💻 Wrote the 404 fallback endpoint (Basically Fullstack 2.0)
+- 💻 Wrote a 404 fallback endpoint
   
 - 🍚 Checked `if err != nil`
 
 - 🚙 Did timing belt, water pump on a 1998 CRV
-
-
-
-*All this with no coffee (☕ Coffee drinkers punching the air right now)*
