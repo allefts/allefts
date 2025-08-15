@@ -9,22 +9,14 @@
 > Not enough efficiency 
 
 
-## Major Achievements
+## Achievements
 - 💻 Upgraded API to V2
   
 - 🤓 Installed NixOS and setup home-manager (Never again)
-  
-- ⌨️ Own Neovim config (No Copy Pasta)
-
-- 🚛 Pronounced NGINX correctly
-  
-- ⛓️ SSH into VPS
-
+    
 - 🌐 Used Terraform once
   
 - 📖 Read the React Documentation
-
-- 💻 Wrote a 404 fallback endpoint
   
 - 🍚 Checked `if err != nil`
 
