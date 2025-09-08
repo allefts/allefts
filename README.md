@@ -1,12 +1,6 @@
 # 🦸 Welcome
 
-> Dev creating everything that I can think of.
-
-> Too many side projects
-
-> Too many ideas
-
-> Not enough efficiency 
+> Too many side projects, too many ideas, not enough efficiency 
 
 
 ## Achievements
